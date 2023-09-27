@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/Faragny/static/css/main.8cc6e3cb.css",
-    "main.js": "/Faragny/static/js/main.5c0d7e80.js",
+    "main.css": "/Faragny/static/css/main.fda7b6b2.css",
+    "main.js": "/Faragny/static/js/main.5818dd9b.js",
     "static/media/fa-solid-900.ttf": "/Faragny/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
     "static/media/signIn.jpg": "/Faragny/static/media/signIn.6847019e632f32389a08.jpg",
     "static/media/fa-brands-400.ttf": "/Faragny/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
     "static/media/UNDesktopAR.png": "/Faragny/static/media/UNDesktopAR.a170380df8fee8d2f6c7.png",
-    "static/media/main.jpg": "/Faragny/static/media/main.c0b752fa802bf826a574.jpg",
     "static/media/fa-solid-900.woff2": "/Faragny/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
     "static/media/MeNowXDesktopAR.jpg": "/Faragny/static/media/MeNowXDesktopAR.8c056da8975a398be163.jpg",
     "static/media/DesktopAR (1).jpg": "/Faragny/static/media/DesktopAR (1).798d5d3e8b1979a768cc.jpg",
@@ -27,11 +26,11 @@
     "static/media/person-svgrepo-com.svg": "/Faragny/static/media/person-svgrepo-com.37f53025359ed85d3d20a4f5aa369ce4.svg",
     "index.html": "/Faragny/index.html",
     "static/media/facebook-svgrepo-com.svg": "/Faragny/static/media/facebook-svgrepo-com.cfc20193e2c91c61577f69ec247898f5.svg",
-    "main.8cc6e3cb.css.map": "/Faragny/static/css/main.8cc6e3cb.css.map",
-    "main.5c0d7e80.js.map": "/Faragny/static/js/main.5c0d7e80.js.map"
+    "main.fda7b6b2.css.map": "/Faragny/static/css/main.fda7b6b2.css.map",
+    "main.5818dd9b.js.map": "/Faragny/static/js/main.5818dd9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.8cc6e3cb.css",
-    "static/js/main.5c0d7e80.js"
+    "static/css/main.fda7b6b2.css",
+    "static/js/main.5818dd9b.js"
   ]
 }
