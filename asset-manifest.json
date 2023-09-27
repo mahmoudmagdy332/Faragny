@@ -1,36 +1,10 @@
 {
   "files": {
-    "main.css": "/Faragny/static/css/main.fda7b6b2.css",
-    "main.js": "/Faragny/static/js/main.31ef71c8.js",
-    "static/media/fa-solid-900.ttf": "/Faragny/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
-    "static/media/signIn.jpg": "/Faragny/static/media/signIn.6847019e632f32389a08.jpg",
-    "static/media/fa-brands-400.ttf": "/Faragny/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
-    "static/media/UNDesktopAR.png": "/Faragny/static/media/UNDesktopAR.a170380df8fee8d2f6c7.png",
-    "static/media/fa-solid-900.woff2": "/Faragny/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
-    "static/media/MeNowXDesktopAR.jpg": "/Faragny/static/media/MeNowXDesktopAR.8c056da8975a398be163.jpg",
-    "static/media/DesktopAR (1).jpg": "/Faragny/static/media/DesktopAR (1).798d5d3e8b1979a768cc.jpg",
-    "static/media/fa-brands-400.woff2": "/Faragny/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
-    "static/media/DesktopAR.jpg": "/Faragny/static/media/DesktopAR.e2ae7fc35ad95007ae6d.jpg",
-    "static/media/fa-regular-400.ttf": "/Faragny/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
-    "static/media/fa-regular-400.woff2": "/Faragny/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
-    "static/media/Mahmoud1.png": "/Faragny/static/media/Mahmoud1.c3070383fc55addeaf73.png",
-    "static/media/fa-v4compatibility.ttf": "/Faragny/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
-    "static/media/etisalat-1.svg": "/Faragny/static/media/etisalat-1.e8a39bb50f16d0b2fdea411b7a6647c0.svg",
-    "static/media/We_logo.svg": "/Faragny/static/media/We_logo.bf6a2e46faaf7db26c76760dbc36837f.svg",
-    "static/media/fa-v4compatibility.woff2": "/Faragny/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
-    "static/media/instagram-1-svgrepo-com.svg": "/Faragny/static/media/instagram-1-svgrepo-com.a0a9a83448ddb5827d70493a84d37806.svg",
-    "static/media/orange-3.svg": "/Faragny/static/media/orange-3.a02bc24fb05527b6b4e20e575792b3f4.svg",
-    "static/media/twitter-color-svgrepo-com.svg": "/Faragny/static/media/twitter-color-svgrepo-com.e0cf1fcc791b8372662dcb30b67c2020.svg",
-    "static/media/youtube-color-svgrepo-com.svg": "/Faragny/static/media/youtube-color-svgrepo-com.dd47c6bcb87c07f7473d9f8c7764e682.svg",
-    "static/media/vodafone-icon.svg": "/Faragny/static/media/vodafone-icon.f4a004227e4407c91247d0a15a8d88e5.svg",
-    "static/media/person-svgrepo-com.svg": "/Faragny/static/media/person-svgrepo-com.37f53025359ed85d3d20a4f5aa369ce4.svg",
+    "main.js": "/Faragny/static/js/main.4312a329.js",
     "index.html": "/Faragny/index.html",
-    "static/media/facebook-svgrepo-com.svg": "/Faragny/static/media/facebook-svgrepo-com.cfc20193e2c91c61577f69ec247898f5.svg",
-    "main.fda7b6b2.css.map": "/Faragny/static/css/main.fda7b6b2.css.map",
-    "main.31ef71c8.js.map": "/Faragny/static/js/main.31ef71c8.js.map"
+    "main.4312a329.js.map": "/Faragny/static/js/main.4312a329.js.map"
   },
   "entrypoints": [
-    "static/css/main.fda7b6b2.css",
-    "static/js/main.31ef71c8.js"
+    "static/js/main.4312a329.js"
   ]
 }
