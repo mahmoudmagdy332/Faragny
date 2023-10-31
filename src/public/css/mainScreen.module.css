@@ -1,0 +1,157 @@
+*{
+    
+}
+.mainScreen{
+    background-color: #050b10;
+}
+.home{
+
+    padding: 50px 0;
+    width: 100%;
+}
+.home  h1{
+  font-weight: 800;
+  text-align: center;
+  
+  color: aliceblue;
+}
+.swiper{
+   margin: 10px 0 20px;
+   height: 120px;
+}
+
+.swiper img{
+   width: 100%;
+   height: 100%;
+   border-radius: 5px;
+ }
+ 
+.start{
+    background-color:#e50914 ;
+    border: none; 
+    padding: 15px 25px;  
+}
+.share{
+    background-color: #e3e308;
+    border: none;
+
+}
+.non_active{
+    border-radius: 10px;
+    padding:  10px 3px;
+    text-decoration: none;
+    display: block;
+    font-weight: 600;
+    font-size: 16px;
+    background-color: black;
+    color: white;
+  }
+ .check_circle{
+    width: 15px;
+    height: 15px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+ }
+ .checkedBox{
+    background-color: rgb(53 47 47 / 26%);
+    padding: 20px 10px;
+    border:1px solid rgb(53 47 47 / 26%);
+    cursor: pointer;
+ }
+
+ .icon{
+    font-size: 10px;
+    font-weight: bolder;
+ }
+ .PhoneItem{
+   width: 100%;
+   height: 200px;
+   background-color:rgb(53 47 47 / 26%); 
+   position: relative;
+   border-radius: 10px;
+   cursor: pointer;
+   border:1px solid rgb(53 47 47 / 26%); 
+ }
+ .check_circle_phone{
+   position: absolute;
+   top:10px;
+   left:10px;
+ }
+ .PhoneCompany{
+   position: absolute;
+   top:50%;
+   left:50%;
+   width: 100%;
+   transform: translate(-50%,-30%);
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+ }
+ .PhoneCompany p{
+ color: antiquewhite;
+ font-size: 15px;
+ font-weight: 600;
+ margin-top: 20px;
+
+ }
+ .accordion{
+   padding: 10px;
+   background-color: rgb(53 47 47 / 26%);
+   position: relative;
+   border-radius: 10px;
+   margin: 10px 0;
+ }
+ .accordion p{
+  margin: 0;
+  color: white;
+  
+ }
+ .arrow{
+   position: absolute;
+   border-style: solid;
+   border-width:7px;
+   border-color: white transparent transparent;
+   top: 50%;
+   left: 15px;
+ }
+ .answer{
+   color: white;
+   padding: 0 20px;
+   display: none;
+   transition: .6s;
+ }
+ .end{
+   background-color: rgb(53 47 47 / 26%); 
+   padding: 40px 20px;
+   border-radius: 10px;
+ }
+ .link{
+   color: white;
+   text-decoration: none;
+   font-weight: bold;
+   border-left: 1px solid white;
+   font-size: 12px;
+ }
+.social_icon{
+   display:flex;
+   justify-content:center;
+   align-items:center;
+   width:50px;
+   height:50px;
+   border-radius:50px;
+   background-color: rgb(53 47 47 / 26%);
+   margin: 10px;
+}
+.get_Way{
+ display: flex;
+flex-direction: column-reverse;
+align-items: center;
+}
+.get_Way form{
+  margin: 10px 0;
+ }
